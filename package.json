@@ -2,9 +2,10 @@
   "name": "videotube",
   "version": "1.0.0",
   "description": "refering chai aur code backend",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "javascript backend vaibhav"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -12,5 +13,9 @@
     "vaibhav"
   ],
   "author": "Vaibhav Gaunkar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.2"
+  }
 }
