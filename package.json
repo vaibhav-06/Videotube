@@ -1,0 +1,16 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "refering chai aur code backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript backend vaibhav"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "vaibhav"
+  ],
+  "author": "Vaibhav Gaunkar",
+  "license": "ISC"
+}
